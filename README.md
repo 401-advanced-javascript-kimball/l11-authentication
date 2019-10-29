@@ -8,7 +8,7 @@
 
 ### Links and Resources
 
-* [submission PR](https://github.com/401-advanced-javascript-kimball/l11-authentication/pull/2)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l11-authentication/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l11-authentication)
 * [Heroku](https://jk-401-lab11.herokuapp.com/)
 
