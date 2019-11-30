@@ -19,7 +19,6 @@
 * [swagger](https://jk-401-lab11.herokuapp.com/doc)
 * [jsdocs](https://401-advanced-javascript-kimball.github.io/l11-authentication/)
 
-
 ### Modules
 
 #### src/auth/middleware.js
